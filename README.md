@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="140">
 
-# 👋 Hi, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
+# Hi, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
 
 ### 🇱🇾 Software Engineer from Libya  
 **Flutter • Dart • PHP • Laravel • MySQL • Java Swing • Unity • HTML • CSS**
@@ -11,7 +11,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=2800&color=1A81E2&center=true&vCenter=true&width=650&lines=Nojaid+Ad;Software+Engineer;Full+Stack+Developer;Flutter+Developer;Unity+%2F+C%23+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=1A81E2&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;Nojaid+Ad;Software+Engineer;Flutter+Developer;)
 
 </div>
 
