@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="110">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="150">
 
-# 👋 Hello, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
+# Hello, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
 
 ### 🇱🇾 Software Engineer from Libya  
 **Flutter • Dart • PHP • Laravel • MySQL • Java Swing • Unity • HTML • CSS**
