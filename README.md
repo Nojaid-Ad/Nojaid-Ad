@@ -54,6 +54,9 @@
 ---
 
 # 📊 GitHub Stats
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nojaid-Ad.Nojaid-Ad&left_text=TOTAL%20VISITORS&left_color=#1a81e2&right_color=#1a81e2" />
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
