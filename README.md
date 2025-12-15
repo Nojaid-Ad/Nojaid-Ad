@@ -63,7 +63,7 @@
 
 ---
 
-# 🧑‍💻 My Developer Identity (Dart Class)
+# 🧑‍💻 My Developer Identity
 
 ```dart
 class NojaidAd {
