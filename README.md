@@ -1,46 +1,69 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="140">
 
-# Hello, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
+# 👋 Hi, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
 
 ### 🇱🇾 Software Engineer from Libya  
 **Flutter • Dart • PHP • Laravel • MySQL • Java Swing • Unity • HTML • CSS**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a81e2&height=3&section=header" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a81e2&height=3&section=header" width="65%">
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=1A81E2&center=true&vCenter=true&width=600&lines=Nojaid+Ad;Software+Engineer;Full+Stack+Developer;Flutter+Developer;Unity+%2F+C%23+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=2800&color=1A81E2&center=true&vCenter=true&width=650&lines=Nojaid+Ad;Software+Engineer;Full+Stack+Developer;Flutter+Developer;Unity+%2F+C%23+Developer)
 
 </div>
 
 ---
 
 ## ✨ About Me  
-- 👨‍💻 Software Engineering Student (7th Semester)  
+- 👨‍💻 7th Semester Software Engineering Student  
 - 📱 Flutter Developer — **GetX, Firebase, REST APIs**  
-- 🎮 Unity + C# Game Logic & Mechanics Enthusiast  
+- 🎮 Unity + C# Gameplay Logic & Mechanics  
 - 🌐 Full‑Stack Developer — **PHP / Laravel / MySQL**  
-- 🎨 UI/UX Designer — Smooth animations & clean interfaces  
-- 🚀 Passionate about scalable systems & problem solving  
+- 🎨 UI/UX Designer — Clean Interfaces & Smooth Animations  
+- 🚀 Passionate about scalable systems & high‑quality software  
 - 🌍 Portfolio: **https://nojaid-ad.github.io/Portfolio/**  
 
 ---
-<h2>🎯My Skills</h2>
-📱 Mobile Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="48"/> </p>
-🌐 Web Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" height="48"/> </p>
-🗄️ Backend & Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="48"/> </p>
-🖥️ Desktop Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="48"/> </p>
-🎮 Game Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=unity" height="48"/> </p>
-⚙️ Tools & Environments
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" height="48"/> </p>
-## 🧑‍💻 My Developer Identity (Dart Class)
+
+# 💻 Tech Stack  
+<div align="left">
+
+### 📱 Mobile Development  
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="48" />
+
+### 🌐 Web Development  
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" height="48" />
+
+### 🗄️ Backend & Databases  
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="48" />
+
+### 🖥️ Desktop Development  
+<img src="https://skillicons.dev/icons?i=java" height="48" />
+
+### 🎮 Game Development  
+<img src="https://skillicons.dev/icons?i=unity" height="48" />
+
+### ⚙️ Tools & Environments  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" height="48" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaid-Ad&theme=tokyonight&layout=compact&hide_border=false)
+
+---
+
+# 🧑‍💻 My Developer Identity (Dart Class)
 
 ```dart
 class NojaidAd {
@@ -73,3 +96,4 @@ class NojaidAd {
     return "$name, a $age y.o Software Engineer passionate about building powerful systems.";
   }
 }
+
