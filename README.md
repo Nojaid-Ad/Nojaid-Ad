@@ -10,7 +10,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="120"/>
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A81E2&center=true&vCenter=true&width=500&lines=Nojaid+Ad;Software+Engineer;Flutter+Developer;Full+Stack+Developer;Unity+%2F+C%23+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=1A81E2&center=true&vCenter=true&width=500&lines=Nojaid+Ad;Software+Engineer;Full+Stack+Developer)
 ## ✨ About Me
 - 🎓 7th semester Software Engineering student  
 - 📱 Building modern Flutter apps with **GetX, Firebase & APIs**  
