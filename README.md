@@ -25,9 +25,6 @@
 - 🎨 UI/UX Designer — Clean Interfaces & Smooth Animations  
 - 🚀 Passionate about scalable systems & high‑quality software  
 - 🌍 Portfolio: **https://nojaid-ad.github.io/Portfolio/
-## 🧠 CodeWars Stats
-[![Codewars](https://www.codewars.com/users/Nojaid-Ad/badges/large)](https://www.codewars.com/users/Nojaid-Ad)
-
 
 
 ---
@@ -67,7 +64,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaid-Ad&theme=tokyonight&layout=compact&hide_border=false)
-
+## 🧠 CodeWars Stats
+[![Codewars](https://www.codewars.com/users/Nojaid-Ad/badges/large)](https://www.codewars.com/users/Nojaid-Ad)
 ---
 
 # 🧑‍💻 My Developer Identity
