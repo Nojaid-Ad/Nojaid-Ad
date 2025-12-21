@@ -24,7 +24,8 @@
 - 🌐 Full‑Stack Developer — **PHP / Laravel / MySQL**  
 - 🎨 UI/UX Designer — Clean Interfaces & Smooth Animations  
 - 🚀 Passionate about scalable systems & high‑quality software  
-- 🌍 Portfolio: **https://nojaid-ad.github.io/Portfolio/**  
+- 🌍 Portfolio: **https://nojaid-ad.github.io/Portfolio/
+- 🧠 Codewars: https://www.codewars.com/users/NojaidAd
 
 ---
 
