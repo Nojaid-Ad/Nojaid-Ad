@@ -25,7 +25,12 @@
 - 🎨 UI/UX Designer — Clean Interfaces & Smooth Animations  
 - 🚀 Passionate about scalable systems & high‑quality software  
 - 🌍 Portfolio: **https://nojaid-ad.github.io/Portfolio/
-- 🧠 Codewars: https://www.codewars.com/users/NojaidAd
+## 🧠 CodeWars Stats
+<p align="left">
+  <a href="https://www.codewars.com/users/NojaidAd" target="_blank">
+    <img src="https://github.r2v.ch/codewars?user=NojaidAd&theme=dark" />
+  </a>
+</p>
 
 ---
 
