@@ -17,7 +17,7 @@
 
 ---
 
-## ✨ About M
+## ✨ About Me
 - 👨‍💻 7th Semester Software Engineering Student  
 - 📱 Flutter Developer — **GetX, Firebase, REST APIs**  
 - 🎮 Unity + C# Gameplay Logic & Mechanics  
