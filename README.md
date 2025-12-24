@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="140">
@@ -5,7 +12,7 @@
 # Hi, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
 
 ### 🇱🇾 Software Engineer from Libya  
-**Flutter • Dart • PHP • Laravel • MySQL • Java Swing • Unity • HTML • CSS**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a81e2&height=3&section=header" width="65%">
 
@@ -72,9 +79,14 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Nojaid-Ad?style=for-the-badge)
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaid-Ad&theme=tokyonight&layout=compact&hide_border=false)
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaid-Ad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Nojaid-Ad&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🧠 CodeWars Stats
 [![Codewars](https://www.codewars.com/users/Nojaid-Ad/badges/large)](https://www.codewars.com/users/Nojaid-Ad)
 ---
