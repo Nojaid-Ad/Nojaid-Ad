@@ -75,14 +75,16 @@
 
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&show_icons=true&include_all_commits=true&count_private=true)
-![GitHub PRs](https://img.shields.io/github/issues-pr/Nojaid-Ad/Nojaid-Ad?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/Nojaid-Ad/Nojaid-Ad?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/Nojaid-Ad?style=for-the-badge)
 
+ ![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&show_icons=true&include_all_commits=true&count_private=true)
 
-
+ <p align = "left" >
+  <img src="https://img.shields.io/badge/Activity%20Rank-A-1e88e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d47a1" />
+  <img src="https://img.shields.io/badge/Skill%20Rank-A+-1e88e5?style=for-the-badge&logo=code&logoColor=white&labelColor=0d47a1" />
+   <img src="https://img.shields.io/github/stars/Nojaid-Ad?style=for-the-badge&logo=github&logoColor=white&labelColor=0d47a1" />
+ </p>
+ 
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=dark&hide_border=false)<br/>
