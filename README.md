@@ -85,8 +85,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaid-Ad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Nojaid-Ad&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🧠 CodeWars Stats
 [![Codewars](https://www.codewars.com/users/Nojaid-Ad/badges/large)](https://www.codewars.com/users/Nojaid-Ad)
 ---
