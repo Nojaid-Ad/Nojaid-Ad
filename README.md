@@ -87,9 +87,9 @@
  
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaid-Ad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaid-Ad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧠 CodeWars Stats
 [![Codewars](https://www.codewars.com/users/Nojaid-Ad/badges/large)](https://www.codewars.com/users/Nojaid-Ad)
