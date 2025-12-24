@@ -60,6 +60,11 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&show_icons=true&include_all_commits=true&count_private=true
+![GitHub PRs](https://img.shields.io/github/issues-pr/Nojaid-Ad/Nojaid-Ad?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/Nojaid-Ad/Nojaid-Ad?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Nojaid-Ad?style=for-the-badge)
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=tokyonight&hide_border=false)
 
