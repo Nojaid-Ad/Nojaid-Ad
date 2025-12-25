@@ -124,7 +124,7 @@ class NojaidAd {
 
   @override
   String toString() {
-    return "$name, a $age y.o Software Engineer passionate about building powerful systems.";
+    return "$name, a $age y.o $role passionate about building powerful systems.";
   }
 }
 ```
