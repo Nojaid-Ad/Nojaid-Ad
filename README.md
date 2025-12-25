@@ -127,11 +127,12 @@ class NojaidAd {
   }
 }
 ```
+![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=blueberry)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=blueberry)
 ## <p align = "center">😂Me and bugs😂</p>
 <p align = "center">
 <img src="https://1b-f.s3.eu-west-1.amazonaws.com/a/83586-2EF64E2B-A897-4A9A-A53B-65BBAF2DA5B9-0-1523309763.gif" width="500">
 </p>
-![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=blueberry)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=blueberry)
+
 
 <p align="center">Thank you for taking the time to visit my profile.</p>
