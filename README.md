@@ -1,4 +1,4 @@
-[![Stardev Profile](https://stardev.io/developers/Nojaid-Ad/badge.svg)](https://stardev.io/developers/Nojaid-Ad)
+https://stardev.io/developers/Nojaid-Ad/badge/languages/country.svg
 
 <div align="center">
 
