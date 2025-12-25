@@ -1,4 +1,4 @@
-[View my Stardev Profile](https://stardev.io/developers/Nojaid-Ad)
+
 
 <div align="center">
 
@@ -64,26 +64,40 @@
 ---
 
 # 📊 GitHub Stats
+
 <p align="left">
+  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nojaid-Ad.Nojaid-Ad&left_text=TOTAL%20VISITORS&left_color=#1a81e2&right_color=#1a81e2" />
- 
+
   <a href="https://committers.top/libya#Nojaid-Ad">
     <img src="https://user-badge.committers.top/libya/Nojaid-Ad.svg" />
-    
+     
   </a>
 
 </p>
+-
+![Level](https://img.shields.io/badge/Developer_Level-B%2B-blue) 
+ 
 
 
- ![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-  ![](https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&show_icons=true&include_all_commits=true&count_private=true)
 
- <p align = "left" >
-  <img src="https://img.shields.io/badge/Activity%20Rank-A-1e88e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d47a1" />
-  <img src="https://img.shields.io/badge/Skill%20Rank-A+-1e88e5?style=for-the-badge&logo=code&logoColor=white&labelColor=0d47a1" />
-   <img src="https://img.shields.io/github/stars/Nojaid-Ad?style=for-the-badge&logo=github&logoColor=white&labelColor=0d47a1" />
-   
- </p>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=blueberry)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nojaid-Ad&theme=github)
+
+
+
+
+
+
+![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=github)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=github)
+
+![Stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=github)
+
+
+
+
  
 
 
