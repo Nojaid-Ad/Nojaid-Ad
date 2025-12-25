@@ -1,4 +1,6 @@
-https://stardev.io/developers/Nojaid-Ad/badge/languages/country.svg
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojaid-Ad&layout=compact)
+
+
 
 <div align="center">
 
