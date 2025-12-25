@@ -1,4 +1,5 @@
-[![Check out Nojaid-Ad's profile on stardev.io](https://stardev.io/developers/Nojaid-Ad/badge/languages/country.svg)](https://stardev.io/developers/Nojaid-Ad)
+[![Stardev Global](https://stardev.io/developers/Nojaid-Ad/badge/languages/global.svg)](https://stardev.io/developers/Nojaid-Ad)
+
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="175">
