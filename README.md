@@ -82,7 +82,9 @@
 ## ![Level](https://img.shields.io/badge/Developer_Level-B%2B-blue) 
 
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=blueberry)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nojaid-Ad&theme=blueberry)
+
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=true)<br/>
 
