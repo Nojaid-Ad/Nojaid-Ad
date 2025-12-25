@@ -83,9 +83,9 @@
 
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=blueberry)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=true)<br/>
-![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=blueberry)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=blueberry)
+
 
 
 ## 🧠 CodeWars Stats
