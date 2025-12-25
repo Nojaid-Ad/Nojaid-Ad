@@ -1,4 +1,5 @@
-[![Stardev Global](https://stardev.io/developers/Nojaid-Ad/badge/languages/global.svg?v=1)](https://stardev.io/developers/Nojaid-Ad)
+[![Stardev Global](https://stardev.io/developers/Nojaid-Ad/badge/languages/global.svg?v=2)](https://stardev.io/developers/Nojaid-Ad)
+
 
 <div align="center">
 
