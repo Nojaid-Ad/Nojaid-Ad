@@ -75,25 +75,25 @@
   </a>
 
 </p>
--
-![Level](https://img.shields.io/badge/Developer_Level-B%2B-blue) 
+
+
  
 
-
+## ![Level](https://img.shields.io/badge/Developer_Level-B%2B-blue) 
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=blueberry)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nojaid-Ad&theme=github)
 
 
 
 
 
 
-![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=github)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=github)
 
-![Stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=github)
+![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=blueberry)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=blueberry)
+
+
 
 
 
