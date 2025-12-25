@@ -133,4 +133,5 @@ class NojaidAd {
 </p>
 ![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=blueberry)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=blueberry)
+
 <p align="center">Thank you for taking the time to visit my profile.</p>
