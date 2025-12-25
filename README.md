@@ -1,6 +1,3 @@
-<a href="https://stardev.io/developers/Nojaid-Ad">
-  <img src="https://stardev.io/developers/Nojaid-Ad/badge/languages/global.svg" />
-</a>
 
 <div align="center">
 
