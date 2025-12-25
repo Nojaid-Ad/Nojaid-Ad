@@ -81,28 +81,12 @@
 
 ## ![Level](https://img.shields.io/badge/Developer_Level-B%2B-blue) 
 
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=blueberry)
-
-
-
-
-
-
-
-
+![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=true)<br/>
 ![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=blueberry)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=blueberry)
 
-
-
-
-
-
- 
-
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=false)<br/>
 
 ## 🧠 CodeWars Stats
 [![Codewars](https://www.codewars.com/users/Nojaid-Ad/badges/large)](https://www.codewars.com/users/Nojaid-Ad)
