@@ -111,6 +111,7 @@ class NojaidAd {
 
   final List<String> interests = [
     "Software Engineering",
+    "Team Work",
     "Mobile App Development",
     "Game Development",
     "Backend Systems",
