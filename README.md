@@ -132,4 +132,4 @@ class NojaidAd {
 <p align = "center">
 <img src="https://1b-f.s3.eu-west-1.amazonaws.com/a/83586-2EF64E2B-A897-4A9A-A53B-65BBAF2DA5B9-0-1523309763.gif" width="500">
 </p>
-
+<p align="center">Thank you for taking the time to visit my profile.</p>
