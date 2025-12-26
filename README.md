@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="150">
