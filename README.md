@@ -1,7 +1,3 @@
-## Test
-
-<img src="https://github-readme-stats.vercel.app/api?username=maher-emair&show_icons=true" />
-
 
 <div align = "center">
 
