@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="175">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="150">
 
 # Hi, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
 
