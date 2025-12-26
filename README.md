@@ -1,17 +1,4 @@
-<h1 align="center">Maher Emair's GitHub Stats</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maher-emair&style=flat-square&color=blue" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github
-
-<div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="150">
 
