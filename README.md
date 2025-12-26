@@ -1,5 +1,3 @@
-[![committers.top badge](https://org-badge.committers.top/libya/ORGNAME.svg)](https://org-badge.committers.top/libya/ORGNAME)
-[![committers.top badge](https://user-badge.committers.top/libya/Nojaid-Ad.svg)](https://user-badge.committers.top/libya/Nojaid-Ad)
 
 <div align="center">
 
