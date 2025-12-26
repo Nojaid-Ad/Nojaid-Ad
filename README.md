@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a81e2&height=3&section=header" width="34%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a81e2&height=3&section=header" width="65%">
 
 ---
 
@@ -30,10 +30,7 @@
 - 📱 Flutter Developer — **GetX, Firebase, REST APIs**  
 - 🎮 Unity + C# Gameplay Logic & Mechanics  
 - 🌐 Full‑Stack Developer — **PHP / Laravel / MySQL**  
-- 🎨 UI/UX Designer — Clean Interfaces & Smooth Animations  
 - 🚀 Passionate about scalable systems & high‑quality software  
-- 🌍 Portfolio: https://nojaid-ad.github.io/Portfolio/
-
 
 ---
 # 💻 Tech Stack  
