@@ -1,11 +1,11 @@
-
-<div align = "center">
+<div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="150">
 
 # Hi, I'm <span style="color:#1a81e2;">Nojaid Abdullah Issa</span>
 
-### 🇱🇾 Software Engineer from Libya  
+### Software Engineer from Libya  
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,71 +26,64 @@
 
 ---
 
-## ✨ About Me
-- 👨‍💻 7th Semester Software Engineering Student  
-- 📱 Flutter Developer — **GetX, Firebase, REST APIs**  
-- 🎮 Unity + C# Gameplay Logic & Mechanics  
-- 🌐 Full‑Stack Developer — **PHP / Laravel / MySQL**  
-- 🚀 Passionate about scalable systems & high‑quality software  
+## About Me
+- 7th Semester Software Engineering Student  
+- Flutter Developer — **GetX, Firebase, REST APIs**  
+- Unity + C# Gameplay Logic & Mechanics  
+- Full-Stack Developer — **PHP / Laravel / MySQL**  
+- Focused on scalable systems and clean, maintainable code  
 
 ---
-# 💻 Tech Stack  
+
+## Tech Stack
 <div align="left">
 
-### 📱 Mobile Development  
+### Mobile Development  
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="48" />
 
-### 🌐 Web Development  
+### Web Development  
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" height="48" />
 
-### 🗄️ Backend & Databases  
+### Backend & Databases  
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="48" />
 
-### 🖥️ Desktop Development  
+### Desktop Development  
 <img src="https://skillicons.dev/icons?i=java" height="48" />
 
-### 🎮 Game Development  
+### Game Development  
 <img src="https://skillicons.dev/icons?i=unity" height="48" />
 
-### ⚙️ Tools & Environments  
+### Tools & Environments  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" height="48" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
-  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nojaid-Ad.Nojaid-Ad&left_text=TOTAL%20VISITORS&left_color=#1a81e2&right_color=#1a81e2" />
 
   <a href="https://committers.top/libya#Nojaid-Ad">
     <img src="https://user-badge.committers.top/libya/Nojaid-Ad.svg" />
-     
   </a>
-
 </p>
 
-
- 
-
-## ![Level](https://img.shields.io/badge/Developer_Level-B%2B-blue) 
-
+## Developer Level
+![Level](https://img.shields.io/badge/Developer_Level-B%2B-blue)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=blueberry)
+![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=true)
 
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=true)<br/>
-
-
-
-## 🧠 CodeWars Stats
-[![Codewars](https://www.codewars.com/users/Nojaid-Ad/badges/large)](https://www.codewars.com/users/Nojaid-Ad)
 ---
 
-# 🧑‍💻 My Developer Identity
+## CodeWars Stats
+[![Codewars](https://www.codewars.com/users/Nojaid-Ad/badges/large)](https://www.codewars.com/users/Nojaid-Ad)
+
+---
+
+## Developer Identity
 
 ```dart
 class NojaidAd {
@@ -102,35 +95,25 @@ class NojaidAd {
     "Mobile Development": ["Flutter", "Dart", "GetX", "Firebase"],
     "Backend": ["PHP", "Laravel", "MySQL"],
     "Web": ["HTML", "CSS", "JavaScript"],
-    "Game Dev": ["Unity", "C#"],
-    "Desktop Apps": ["Java Swing"],
+    "Game Development": ["Unity", "C#"],
+    "Desktop Applications": ["Java Swing"],
   };
 
   final List<String> interests = [
     "Software Engineering",
-    "Team Work",
-    "Mobile App Development",
+    "Team Collaboration",
+    "Mobile Application Development",
     "Game Development",
-    "Backend Systems",
+    "Backend Architecture",
     "UI/UX Design",
   ];
 
   void work() {
-    print("$name is currently building amazing apps...");
+    print("$name is building scalable and high-quality software solutions.");
   }
 
   @override
   String toString() {
-    return "$name, a $age y.o $role passionate about building powerful systems.";
+    return "$name, $role, focused on clean architecture and long-term maintainability.";
   }
 }
-```
-![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=blueberry)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=blueberry)
-## <p align = "center">😂Me and bugs😂</p>
-<p align = "center">
-<img src="https://1b-f.s3.eu-west-1.amazonaws.com/a/83586-2EF64E2B-A897-4A9A-A53B-65BBAF2DA5B9-0-1523309763.gif" width="500">
-</p>
-
-
-<p align="center">Thank you for taking the time to visit my profile.</p>
