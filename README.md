@@ -95,25 +95,34 @@ class NojaidAd {
     "Mobile Development": ["Flutter", "Dart", "GetX", "Firebase"],
     "Backend": ["PHP", "Laravel", "MySQL"],
     "Web": ["HTML", "CSS", "JavaScript"],
-    "Game Development": ["Unity", "C#"],
-    "Desktop Applications": ["Java Swing"],
+    "Game Dev": ["Unity", "C#"],
+    "Desktop Apps": ["Java Swing"],
   };
 
   final List<String> interests = [
     "Software Engineering",
-    "Team Collaboration",
-    "Mobile Application Development",
+    "Team Work",
+    "Mobile App Development",
     "Game Development",
-    "Backend Architecture",
+    "Backend Systems",
     "UI/UX Design",
   ];
 
   void work() {
-    print("$name is building scalable and high-quality software solutions.");
+    print("$name is currently building amazing apps...");
   }
 
   @override
   String toString() {
-    return "$name, $role, focused on clean architecture and long-term maintainability.";
+    return "$name, a $age y.o $role passionate about building powerful systems.";
   }
 }
+```
+
+ ![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nojaid-Ad&theme=blueberry) ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nojaid-Ad&theme=blueberry)
+
+## <p align = "center">😂Me and bugs😂</p>
+<p align = "center">
+  <img src="https://1b-f.s3.eu-west-1.amazonaws.com/a/83586-2EF64E2B-A897-4A9A-A53B-65BBAF2DA5B9-0-1523309763.gif" width="500">
+</p>
+<p align="center">Thank you for taking the time to visit my profile.</p>
