@@ -41,10 +41,10 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="48" />
 
 ### Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" height="48" />
+<img src="https://skillicons.dev/icons?i=html,css" height="48" />
 
 ### Backend & Databases  
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="48" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,php,laravel" height="48" />
 
 ### Desktop Development  
 <img src="https://skillicons.dev/icons?i=java" height="48" />
