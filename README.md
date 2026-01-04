@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Hi,%20I'm%20Nojaid%0AAbdullah%20Issa&fontSize=60&fontAlign=center&fontAlignY=45&fontColor=ffffff&animation=twinkling"
+    alt="Wave Header"
+  />
+</p>
+
+
+
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Waving_stickman.gif" width="150">
