@@ -62,16 +62,26 @@
 
 ## GitHub Stats
 
+
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nojaid-Ad.Nojaid-Ad&left_text=TOTAL%20VISITORS&left_color=#1a81e2&right_color=#1a81e2" />
 
+  <img src="https://img.shields.io/badge/Developer_Level-B%2B-blue" />
+</p>
+
+
+<p align="left">
+  <a href="https://gitranks.com/country/Libya/stars/1">
+    <img src="https://img.shields.io/badge/GitRanks-Libya%20%233-blue" />
+  </a>
+  
   <a href="https://committers.top/libya#Nojaid-Ad">
     <img src="https://user-badge.committers.top/libya/Nojaid-Ad.svg" />
   </a>
+
+
 </p>
 
-## Developer Level
-![Level](https://img.shields.io/badge/Developer_Level-B%2B-blue) [![GitRanks](https://img.shields.io/badge/GitRanks-Libya%20%233-blue)](https://gitranks.com/country/Libya/stars/1)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nojaid-Ad&theme=blueberry)
 ![](https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=true)
