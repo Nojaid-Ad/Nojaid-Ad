@@ -1,3 +1,4 @@
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:1A81E2,100:0F5FBF&height=200&section=header&text=Hi,%20I'm%20Nojaid%0AAbdullah%20Issa&fontSize=50&fontAlign=center&fontAlignY=45&fontColor=ffffff&animation=twinkling"
@@ -142,4 +143,12 @@ class NojaidAd {
 <p align = "center">
   <img src="https://1b-f.s3.eu-west-1.amazonaws.com/a/83586-2EF64E2B-A897-4A9A-A53B-65BBAF2DA5B9-0-1523309763.gif" width="500">
 </p>
-<p align="center">Thank you for taking the time to visit my profile.</p>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thank%20you%20for%20taking%20the%20time%20to%20visit%20my%20profile&fontSize=24&fontAlignY=70"
+    alt="Footer"
+  />
+</p>
+
+
+
