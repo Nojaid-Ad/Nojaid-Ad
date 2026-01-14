@@ -67,7 +67,6 @@
 
 ## GitHub Stats
 
-
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nojaid-Ad.Nojaid-Ad&left_text=TOTAL%20VISITORS&left_color=#1a81e2&right_color=#1a81e2" />
 
