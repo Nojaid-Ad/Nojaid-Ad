@@ -88,8 +88,7 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&show_icons=true&theme=blueberry" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&show_icons=true&theme=blueberry&hide_border=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=true" />
 </p>
 
