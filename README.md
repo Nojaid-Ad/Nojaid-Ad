@@ -33,7 +33,7 @@
 ---
  
 ## About Me
-- 7th Semester Software Engineering Student  
+- 8th Semester Software Engineering Student  
 - Flutter Developer — **GetX, Firebase, REST APIs**  
 - Unity + C# Gameplay Logic & Mechanics  
 - Full-Stack Developer — **PHP / Laravel / MySQL**  
