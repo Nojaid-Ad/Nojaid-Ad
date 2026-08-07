@@ -64,11 +64,6 @@
 
 </div>
 
----
-## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nojaid-Ad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
----
-
 
 ## GitHub Stats
 
@@ -92,10 +87,13 @@
 </p>
 
 
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nojaid-Ad&show_icons=true&theme=blueberry&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nojaid-Ad&theme=blueberry&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nojaid-Ad&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nojaid-Ad&theme=dark&hide_border=true&background=0D1117&stroke=000000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
+
 
 
 ---
