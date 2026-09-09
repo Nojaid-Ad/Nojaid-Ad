@@ -33,11 +33,14 @@
 ---
  
 ## About Me
-- 8th Semester Software Engineering Student  
-- Flutter Developer — **GetX, Firebase, REST APIs**  
-- Unity + C# Gameplay Logic & Mechanics  
-- Full-Stack Developer — **PHP / Laravel / MySQL**  
-- Focused on scalable systems and clean, maintainable code  
+
+- Software Engineering Graduate — **Information Technology**
+- GPA: **81%**
+- Flutter Developer — **GetX, Firebase, REST APIs**
+- Laravel Developer — **PHP, Laravel, MySQL, REST APIs**
+- Full-Stack Developer — **Flutter + Laravel**
+- Unity + C# Gameplay Logic & Mechanics
+- Focused on scalable systems, clean architecture, and maintainable code
 
 ---
 
