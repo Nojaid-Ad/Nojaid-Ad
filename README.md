@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:1A81E2,100:0F5FBF&height=200&section=header&text=Hi,%20I'm%20Nojaid%0AAbdullah%20Issa&fontSize=50&fontAlign=center&fontAlignY=45&fontColor=ffffff&animation=twinkling"
