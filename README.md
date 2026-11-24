@@ -32,7 +32,7 @@
 ---
  
 ## About Me
-
+🌐 Portfolio: [nojaid.ly](https://nojaid.ly)
 - Software Engineering Graduate — **Information Technology**
 - GPA: **81%**
 - Flutter Developer — **GetX, Firebase, REST APIs**
